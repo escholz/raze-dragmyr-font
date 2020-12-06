@@ -1,0 +1,162 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2020, Eric Scholz
+UComments: "2020-12-2: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 750
+Descent: 250
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 981 1692638275 468]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1606962887
+ModificationTime: 1606976746
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 36 17
+BeginPrivate: 0
+EndPrivate
+Grid
+697 749 m 29
+ 690 70 l 1029
+0 500 m 1
+ 1000 500 l 1025
+  Named: "x-height"
+EndSplineSet
+AnchorClass2: "MiddleBottom""" 
+BeginChars: 256 5
+
+StartChar: A
+Encoding: 65 65 0
+Width: 694
+VWidth: 998
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+290.422851562 -284 m 2
+ 132.422851562 3 l 1
+ 9.4228515625 265 l 2
+ -3.30859375 292.120117188 -3.5771484375 318 14.4228515625 336 c 0
+ 31.9873046875 353.564453125 62.4892578125 351.129882812 84.4228515625 340 c 2
+ 486.422851562 136 l 1
+ 636.422851562 64 l 26
+ 666.422851562 50 705.422851562 31 692.422851562 0 c 24
+ 679.422851562 -31 637.16796875 -23.43359375 606.422851562 -8 c 2
+ 353.422851562 119 l 1
+ 161 248 l 2
+ 137.783841366 263.564079003 102 290 82 270 c 5
+ 60 248 81.8043488518 216.215738278 99 190 c 2
+ 256.422851562 -50 l 1
+ 368.422851562 -263 l 2
+ 377.577148438 -280.920898438 372.422851562 -313 353.422851562 -320 c 0
+ 334.422851562 -327 300.353515625 -302.037109375 290.422851562 -284 c 2
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 1
+Width: 1000
+VWidth: 998
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+555 1209 m 1053
+EndSplineSet
+Fore
+SplineSet
+-453 -1014 m 1049
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 2
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+456 492 m 5
+ 9 165 l 1
+ 491 -254 l 1
+ 962 152 l 9
+ 915 191 l 25
+ 480 -177 l 25
+ 60 159 l 25
+ 479 441 l 25
+ 456 492 l 5
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 3
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+0 200 m 1
+ 500 500 l 1
+ 519 -250 l 1
+ 512.333007812 -250 505.666992188 -250 499 -250 c 1
+ 485 470 l 1
+ 0 180 l 1
+ 0 200 l 1
+EndSplineSet
+EndChar
+
+StartChar: E
+Encoding: 69 69 4
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+497 500 m 25
+ 0 129 l 25
+ 402 89 l 1
+ 443 -258 l 1
+ 989 188 l 9
+ 965 204 l 25
+ 483 -156 l 25
+ 467 122 l 25
+ 132 180 l 25
+ 527 465 l 25
+ 497 500 l 25
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
